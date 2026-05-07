@@ -1,0 +1,16 @@
+const ans ={
+    id: " ",
+    const id = Number(prompt("What is your id? "))
+    available: " ",
+    const available = Boolean(prompt("Is Available? "))
+    count: " ",
+    const count = Number(prompt("How many books? "))
+    name: " ",
+    const name = String(prompt("What is your name? ")) 
+    author: " ",
+    const author = prompt("What is author name? ")
+    
+};
+
+console.log(ans)
+
